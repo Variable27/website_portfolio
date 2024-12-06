@@ -1,1 +1,3 @@
-jdjdjdjd
+User-agent: *
+Allow: /
+Sitemap: https://www.airencaballero.site/sitemap.xml
